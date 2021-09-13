@@ -109,25 +109,25 @@
                                     <li><a href="{{ route('chimney_installation') }}">Монтаж дымохода</a></li>
                                 </ul>
                             </li>
-                            <li><a href="">Уход за могилами</a></li>
-                            <li><a href="">Ремонт и чистка колодцев</a></li>
+                            <li><a href="{{ route('care_graves') }}">Уход за могилами</a></li>
+                            <li><a href="{{ route('repair_wells') }}">Ремонт и чистка колодцев</a></li>
                             <li class="dropdown-submenu">
                                 <a href="#" tabindex="-1">Благоустройство участка</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#" tabindex="-1">Вывоз мусора</a></li>
-                                    <li><a href="#">Покос травы</a></li>
-                                    <li><a href="#">Копка траншей</a></li>
-                                    <li><a href="#">Уборка придомовой территории</a></li>
+                                    <li><a href="{{ route('garbage_removal') }}" tabindex="-1">Вывоз мусора</a></li>
+                                    <li><a href="{{ route('mowing_grass') }}">Покос травы</a></li>
+                                    <li><a href="{{ route('digging_trenches')}}">Копка траншей</a></li>
+                                    <li><a href="{{ route('cleaning_local_area') }}">Уборка придомовой территории</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown-submenu">
                                 <a href="#" tabindex="-1">Укладка пола</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#" tabindex="-1">Укладка ламината</a></li>
-                                    <li><a href="#">Укладка паркета</a></li>
-                                    <li><a href="#">Укладка деревянного пола</a></li>
-                                    <li><a href="#">Укладка фанеры на пол</a></li>
-                                    <li><a href="#">Укладка половой доски</a></li>
+                                    <li><a href="{{ route('laying_laminate') }}" tabindex="-1">Укладка ламината</a></li>
+                                    <li><a href="{{ route('laying_parquet') }}">Укладка паркета</a></li>
+                                    <li><a href="{{ route('laying_wood_floor') }}">Укладка деревянного пола</a></li>
+                                    <li><a href="{{ route('laying_plywood') }}">Укладка фанеры на пол</a></li>
+                                    <li><a href="{{ route('laying_floorboard') }}">Укладка половой доски</a></li>
                                 </ul>
                             </li>
                         </ul>

@@ -55,17 +55,17 @@ Route::get('/oblicovka-pechi-kamina', [ServiceController::class, 'ovenCladdingSh
 Route::get('/montazh-kotla-otopleniya', [ServiceController::class, 'installationHeatingBoilerShow'])->name('installation_heating_boiler');
 Route::get('/montazh-dymohoda', [ServiceController::class, 'chimneyInstallationShow'])->name('chimney_installation');
 //
-//'uhod-za-mogilami'
+Route::get('/uhod-za-mogilami', [ServiceController::class, 'careGravesShow'])->name('care_graves');
 //
-//'remont-i-chistka-kolodcev'
+Route::get('/remont-i-chistka-kolodcev', [ServiceController::class, 'repairWellsShow'])->name('repair_wells');
 //
-//'vyvoz-musora'
-//'pokos-travy'
-//'kopka-transhej'
-//'uborka-pridomovoj-territorii'
+Route::get('/vyvoz-musora', [ServiceController::class, 'garbageRemovalShow'])->name('garbage_removal');
+Route::get('/pokos-travy', [ServiceController::class, 'mowingGrassShow'])->name('mowing_grass');
+Route::get('/kopka-transhej', [ServiceController::class, 'diggingTrenchesShow'])->name('digging_trenches');
+Route::get('/uborka-pridomovoj-territorii', [ServiceController::class, 'cleaningLocalAreaShow'])->name('cleaning_local_area');
 //
-//'ukladka-laminata'
-//'ukladka-parketa'
-//'ukladka-derevyannogo-pola'
-//'ukladka-fanery-na-pol'
-//'ukladka-polovoj-doski'
+Route::get('/ukladka-laminata', [ServiceController::class, 'layingLaminateShow'])->name('laying_laminate');
+Route::get('/ukladka-parketa', [ServiceController::class, 'layingParquetShow'])->name('laying_parquet');
+Route::get('/ukladka-derevyannogo-pola', [ServiceController::class, 'layingWoodFloorShow'])->name('laying_wood_floor');
+Route::get('/ukladka-fanery-na-pol', [ServiceController::class, 'layingPlywoodShow'])->name('laying_plywood');
+Route::get('/ukladka-polovoj-doski', [ServiceController::class, 'layingFloorboardShow'])->name('laying_floorboard');
