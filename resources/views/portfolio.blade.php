@@ -53,7 +53,6 @@
         </div>
     </div>
     <div class="container">
-
         <div class="row">
             <div class="col-md-6">
                 <ul id="filters" class="clearfix">
@@ -75,17 +74,98 @@
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
                                 <div class="image-caption">
-                                    <a href="img/portfolios/logo/5.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="img/test-pictures/1.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
-                                <img src="img/portfolios/logo/5.jpg" alt="" />
-
+                                <img src="img/test-pictures/1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
+                    <div class="portfolio logo" data-cat="logo">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-hover">
+                                <div class="image-caption">
+                                    <a href="img/test-pictures/2.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
+                                    <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <img src="img/test-pictures/2.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio logo" data-cat="logo">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-hover">
+                                <div class="image-caption">
+                                    <a href="img/test-pictures/3.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
+                                    <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <img src="img/test-pictures/3.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio logo" data-cat="logo">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-hover">
+                                <div class="image-caption">
+                                    <a href="img/test-pictures/4.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
+                                    <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <img src="img/test-pictures/4.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio logo" data-cat="logo">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-hover">
+                                <div class="image-caption">
+                                    <a href="img/test-pictures/5.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
+                                    <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <img src="img/test-pictures/5.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio logo" data-cat="logo">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-hover">
+                                <div class="image-caption">
+                                    <a href="img/test-pictures/6.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
+                                    <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <img src="img/test-pictures/6.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio logo" data-cat="logo">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-hover">
+                                <div class="image-caption">
+                                    <a href="img/test-pictures/7.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
+                                    <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <img src="img/test-pictures/7.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio logo" data-cat="logo">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-hover">
+                                <div class="image-caption">
+                                    <a href="img/test-pictures/8.jpg" class="magnefig label label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
+                                    <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
+                                    <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <img src="img/test-pictures/8.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div>
                     <div class="portfolio app" data-cat="app">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -93,13 +173,11 @@
                                     <a href="img/portfolios/app/3.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/app/3.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio web" data-cat="web">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -107,13 +185,11 @@
                                     <a href="img/portfolios/web/1.jpg" class="label magnefig label-info icon icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/web/1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio card" data-cat="card">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -121,13 +197,11 @@
                                     <a href="img/portfolios/card/1.jpg" class="label magnefig label-info icon icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/card/1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio app" data-cat="app">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -135,13 +209,11 @@
                                     <a href="img/portfolios/app/3.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/app/3.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio card" data-cat="card">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -149,13 +221,11 @@
                                     <a href="img/portfolios/card/1.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/card/1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio card" data-cat="card">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -169,7 +239,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio logo" data-cat="logo">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -177,13 +246,11 @@
                                     <a href="img/portfolios/logo/5.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/logo/5.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio app" data-cat="app">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -191,13 +258,11 @@
                                     <a href="img/portfolios/app/1.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/app/1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio card" data-cat="card">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -205,13 +270,11 @@
                                     <a href="img/portfolios/card/2.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/card/2.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio logo" data-cat="logo">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -219,13 +282,11 @@
                                     <a href="img/portfolios/logo/5.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/logo/5.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio logo" data-cat="logo">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -233,13 +294,11 @@
                                     <a href="img/portfolios/logo/5.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/logo/5.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio icon" data-cat="icon">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -247,13 +306,11 @@
                                     <a href="img/portfolios/icon/3.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/icon/3.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio web" data-cat="web">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -261,13 +318,11 @@
                                     <a href="img/portfolios/web/1.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/web/1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio icon" data-cat="icon">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -275,13 +330,11 @@
                                     <a href="img/portfolios/icon/1.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/icon/1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio web" data-cat="web">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -289,13 +342,11 @@
                                     <a href="img/portfolios/web/2.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/web/2.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio icon" data-cat="icon">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -303,13 +354,11 @@
                                     <a href="img/portfolios/icon/3.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/icon/3.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio icon" data-cat="icon">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -317,13 +366,11 @@
                                     <a href="img/portfolios/icon/5.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/icon/5.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio web" data-cat="web">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -331,13 +378,11 @@
                                     <a href="img/portfolios/web/4.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/web/4.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio logo" data-cat="logo">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -345,13 +390,11 @@
                                     <a href="img/portfolios/logo/2.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/logo/2.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio logo" data-cat="logo">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -359,13 +402,11 @@
                                     <a href="img/portfolios/logo/3.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/logo/3.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio icon" data-cat="icon">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -373,13 +414,11 @@
                                     <a href="img/portfolios/logo/5.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/logo/5.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio card" data-cat="card">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -387,13 +426,11 @@
                                     <a href="img/portfolios/card/4.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/card/4.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-
                     <div class="portfolio logo" data-cat="logo">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-hover">
@@ -401,20 +438,16 @@
                                     <a href="img/portfolios/logo/5.jpg" class="label magnefig label-info icon" data-toggle="tooltip" data-placement="left" title="Zoom"><i class="fa fa-eye"></i></a>
                                     <a href="blog-detail.html" class="label label-info icon" data-toggle="tooltip" data-placement="top" title="Details"><i class="fa fa-link"></i></a>
                                     <a href="#" class="label label-info icon" data-toggle="tooltip" data-placement="right" title="Likes"><i class="fa fa-heart"></i></a>
-
                                 </div>
                                 <img src="img/portfolios/logo/5.jpg" alt="" />
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
-
         </div>
     </div>
 @stop
-
 @section('scripts')
     <!-- js placed at the end of the document so the pages load faster
     <script src="js/jquery.js"></script> -->

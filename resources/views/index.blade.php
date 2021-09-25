@@ -6,21 +6,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2>
-                            <i>CLEAN &amp; FRESH</i>
-                            <br>
-                            <i>RESPONSIVE</i>
-                            <br>
-                            <i>DESIGN</i>
-                        </h2>
+                        <h2><i>Акция</i><br><i>Подъем дома</i><br><i>10% скидка</i></h2>
                         <p>
                             <i>Lorem ipsum dolor amet</i>
                             <br />
                             <i>veniam omnis</i>
                         </p>
-                        <a href="#" class="btn btn-info btn-lg da-link">
-                            Read more
-                        </a>
+                        <a href="#" class="btn btn-info btn-lg da-link">Участвовать</a>
                         <div class="da-img">
                             <img src="img/parallax-slider/images/2.png" alt="image01" />
                         </div>
@@ -28,27 +20,17 @@
                 </div>
             </div>
         </div>
-
-
         <div class="da-slide">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2>
-                            <i>RESPONSIVE VIDEO</i>
-                            <br />
-                            <i>SUPPORT AND</i>
-                            <br />
-                            <i>MANY MORE</i>
-                        </h2>
+                        <h2><i>Акция</i><br /><i>Кладка печи</i><br/><i>10% скидка</i></h2>
                         <p>
                             <i>Lorem ipsum dolor amet</i>
                             <br />
                             <i>tempor incididunt ut</i>
                         </p>
-                        <a href="#" class="btn btn-info btn-lg da-link">
-                            Read more
-                        </a>
+                        <a href="#" class="btn btn-info btn-lg da-link">Участвовать</a>
                         <div class="da-img">
                             <img src="img/parallax-slider/images/3.png" alt="image01" />
                         </div>
@@ -56,19 +38,11 @@
                 </div>
             </div>
         </div>
-
-
         <div class="da-slide">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2>
-                            <i>USING BEST WEB</i>
-                            </br>
-                            <i>SOLUTIONS WITH</i>
-                            </br>
-                            <i>HTML5/CSS3</i>
-                        </h2>
+                        <h2><i>Акция</i></br><i>Укладка ламината</i></br><i>10% скидка</i></h2>
                         <p>
                             <i>Lorem ipsum dolor amet</i>
                             <br />
@@ -76,9 +50,7 @@
                             <br />
                             <i>veniam omnis </i>
                         </p>
-                        <a href="#" class="btn btn-info btn-lg da-link">
-                            Read more
-                        </a>
+                        <a href="#" class="btn btn-info btn-lg da-link">Участвовать</a>
                         <div class="da-img">
                             <img src="img/parallax-slider/images/1.png" alt="image01" />
                         </div>
@@ -86,7 +58,6 @@
                 </div>
             </div>
         </div>
-
         <nav class="da-arrows">
             <span class="da-arrows-prev">
             </span>
@@ -98,24 +69,20 @@
         <div class="row mar-b-50">
             <div class="col-md-12">
                 <div class="text-center feature-head wow fadeInDown">
-                    <h1 class="">
-                        welcome to Gomza
-                    </h1>
+                    <h1 class="">masterstroy это</h1>
                 </div>
-
                 <div class="feature-box">
                     <div class="col-md-4 col-sm-4 text-center wow fadeInUp">
                         <div class="feature-box-heading">
                             <em>
                                 <img src="img/1.png" alt="" width="100" height="100">
-
                             </em>
                             <h4>
-                                <b>Multipurpose Template</b>
+                                <b>Точность</b>
                             </h4>
                         </div>
                         <p class="text-center">
-                            Lorem ipsum dolor sit amet, dolore eiusmod quis tempor incididunt ut et dolore Ut veniam unde nostrudlaboris.
+                            Приступая к работе мастер точно знает что ему надо делать, а клиент точно знает за что он платит.
                         </p>
                     </div>
                     <div class="col-md-4 col-sm-4 text-center wow fadeInUp">
@@ -124,11 +91,11 @@
                                 <img src="img/2.png" alt="" width="100" height="100">
                             </em>
                             <h4>
-                                <b>Well Documented</b>
+                                <b>Ответственность</b>
                             </h4>
                         </div>
                         <p class="text-center">
-                            Lorem ipsum dolor sit amet, dolore eiusmod quis tempor incididunt ut et dolore Ut veniam unde nostrudlaboris.
+                            Мы несем ответственность за своб работу, по этому делаем все качественно, чтобы не возникало лишних вопросов.
                         </p>
                     </div>
                     <div class="col-md-4 col-sm-4 text-center wow fadeInUp">
@@ -137,16 +104,14 @@
                                 <img src="img/3.png" alt="" width="100" height="100">
                             </em>
                             <h4>
-                                <b>Responsive Design</b>
+                                <b>Оперативность</b>
                             </h4>
                         </div>
                         <p class="text-center">
-                            Lorem ipsum dolor sit amet, dolore eiusmod quis tempor incididunt ut et dolore Ut veniam unde nostrudlaboris.
+                            15-летний опыт в сфере строительства позволяет выполнять задачи оперативно и быстро.
                         </p>
                     </div>
                 </div>
-
-                <!--feature end-->
             </div>
         </div>
     </div>
@@ -157,23 +122,19 @@
                     <img src="img/tab1.png" alt="">
                 </div>
                 <div class="col-lg-6 col-sm-6 wow fadeInRight">
-                    <h1>
-                        Mobile ready
+                    <h1>Mobile ready
                     </h1>
                     <hr>
                     <p>
-                        <i class="fa fa-check fa-lg pr-10">
-                        </i>
+                        <i class="fa fa-check fa-lg pr-10"></i>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
                     </p>
                     <p>
-                        <i class="fa fa-check fa-lg pr-10">
-                        </i>
+                        <i class="fa fa-check fa-lg pr-10"></i>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener. natus error sit voluptatem accusantiu.
                     </p>
                     <p>
-                        <i class="fa fa-check fa-lg pr-10">
-                        </i>
+                        <i class="fa fa-check fa-lg pr-10"></i>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ablic jiener.
                     </p>
                     <hr>
@@ -187,7 +148,6 @@
     <div class="container">
         <div class="row mar-b-60">
             <div class="col-lg-6">
-                <!--tab start-->
                 <section class="tab wow fadeInLeft">
                     <header class="panel-heading tab-bg-dark-navy-blue">
                         <ul class="nav nav-tabs nav-justified ">
@@ -312,10 +272,8 @@
                         </div>
                     </div>
                 </section>
-                <!--tab end-->
             </div>
             <div class="col-lg-6">
-                <!--testimonial start-->
                 <div class="about-testimonial boxed-style about-flexslider ">
                     <section class="slider wow fadeInRight">
                         <div class="flexslider">
@@ -328,8 +286,8 @@
                                         Russel Reagan
                                     </a>
                                     <span class="about-testimonial-company">
-                          CCD Realestate
-                        </span>
+                                        CCD Realestate
+                                    </span>
                                     <div class="about-testimonial-content">
                                         <p class="about-testimonial-quote">
                                             Donec ut purus sed tortor malesuada venenatis eget eget lorem. Nullam tempor lectus a ligula lobortis pretium. Donec ut purus sed tortor malesuada venenatis eget eget lorem.
@@ -356,7 +314,6 @@
                         </div>
                     </section>
                 </div>
-                <!--testimonial end-->
             </div>
         </div>
     </div>
@@ -436,11 +393,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>
-                        In case you need any help
-                    </h2>
+                    <h2>In case you need any help</h2>
                 </div>
-
                 <div class="col-md-4">
                     <div class="h-service">
                         <div class="icon-wrap ico-bg round-fifty wow fadeInDown">
@@ -448,9 +402,7 @@
                             </i>
                         </div>
                         <div class="h-service-content wow fadeInUp">
-                            <h3>
-                                PRESALE QUESTION
-                            </h3>
+                            <h3>Консультация</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim  laborum.
@@ -469,16 +421,12 @@
                             </i>
                         </div>
                         <div class="h-service-content wow fadeInUp">
-                            <h3>
-                                NEED SUPPORT?
-                            </h3>
+                            <h3>Поддержка</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim  laborum.
                                 <br>
-                                <a href="#">
-                                    Learn more
-                                </a>
+                                <a href="#">Learn more</a>
                             </p>
                         </div>
                     </div>
@@ -490,9 +438,7 @@
                             </i>
                         </div>
                         <div class="h-service-content wow fadeInUp">
-                            <h3>
-                                CHECK FORUM
-                            </h3>
+                            <h3>Альтернатива</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim  laborum.
@@ -505,11 +451,7 @@
                     </div>
                 </div>
             </div>
-            <!-- /row -->
-
         </div>
-        <!-- /container -->
-
     </div>
     <div class="hr">
         <span class="hr-inner"></span>
@@ -517,25 +459,13 @@
     <div class="container">
         <div class="row mar-b-50 our-clients">
             <div class="col-md-3">
-                <h2>
-                    Our Clients
-                </h2>
-                <p>
-                    Lorem dipsum folor margade sitede lametep eiusmod psumquis dolore.Margade sitede lametep eiusmod.
-                    lametep eiusmod psumquis dolore.
-                </p>
+                <h2>Успешные кейсы</h2>
+                <p>Выполненные работы, довольные заказчики, интересные проекты</p>
             </div>
             <div class="col-md-9">
                 <div class="outside">
-                    <p>
-                  <span id="slider-prev">
-                  </span>
-                        |
-                        <span id="slider-next">
-                  </span>
-                    </p>
+                    <p><span id="slider-prev"></span>|<span id="slider-next"></span></p>
                 </div>
-
                 <ul class="bxslider1 clients-list">
                     <li>
                         <a href="#">
@@ -586,10 +516,7 @@
                             <img src="img/clients/newlogo6.png" class="color-img" alt="" />
                         </a>
                     </li>
-
                 </ul>
-
-
             </div>
         </div>
         <!-- END CLIENTS -->

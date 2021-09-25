@@ -10,7 +10,7 @@
         <link rel="shortcut icon" href="img/favicon.png">
 
         <title>
-            Acme | Home
+            Masterstroy.by | Home
         </title>
 
         <!-- Bootstrap core CSS -->
@@ -46,7 +46,6 @@
         <![endif]-->
     @show
 </head>
-
 <body>
     <header class="head-section">
         <div class="navbar navbar-default navbar-static-top container">
@@ -56,7 +55,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/">G<span>omza</span></a>
+                <a class="navbar-brand" href="/">m<span>asterstroy.by</span></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
@@ -144,96 +143,57 @@
             </div>
         </div>
     </header>
-
     @yield('content')
-
     <footer class="footer">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-sm-3 address wow fadeInUp" data-wow-duration="2s" data-wow-delay=".1s">
                     <h1>
-                        contact info
+                        Как нас найти ?
                     </h1>
                     <address>
-                        <p><i class="fa fa-home pr-10"></i>Address: No.XXXXXX street</p>
-                        <p><i class="fa fa-globe pr-10"></i>Mars city, Country </p>
-                        <p><i class="fa fa-mobile pr-10"></i>Mobile : (123) 456-7890 </p>
-                        <p><i class="fa fa-phone pr-10"></i>Phone : (123) 456-7890 </p>
-                        <p><i class="fa fa-envelope pr-10"></i>Email :   <a href="javascript:;">support@example.com</a></p>
+                        <p><i class="fa fa-home pr-10"></i>ул. Ленина 1</p>
+                        <p><i class="fa fa-globe pr-10"></i>г. Барановичи , Беларусь </p>
+                        <p><i class="fa fa-mobile pr-10"></i>Тел. +375 (29) 221-02-45 </p>
+                        <p><i class="fa fa-phone pr-10"></i>Тел. +375 (33) 373-98-44 </p>
+                        <p><i class="fa fa-envelope pr-10"></i>Email :   <a href="javascript:;">masterstroy@gmail.com</a></p>
                     </address>
-                </div>
-                <div class="col-lg-3 col-sm-3 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".3s">
-                    <h1>latest tweet</h1>
-                    <div class="tweet-box">
-                        <i class="fa fa-twitter"></i>
-                        <em>
-                            Please follow
-                            <a href="javascript:;">@example</a>
-                            for all future updates of us!
-                            <a href="javascript:;">twitter.com/acme</a>
-                        </em>
-                    </div>
-                    <div class="tweet-box">
-                        <i class="fa fa-twitter"></i>
-                        <em>
-                            Please follow
-                            <a href="javascript:;">@example</a>
-                            for all future updates of us!
-                            <a href="javascript:;">twitter.com/acme</a>
-                        </em>
-                    </div>
-                    <div class="tweet-box">
-                        <i class="fa fa-twitter"></i>
-                        <em>
-                            Please follow
-                            <a href="javascript:;">@example</a>
-                            for all future updates of us!
-                            <a href="javascript:;">twitter.com/acme</a>
-                        </em>
-                    </div>
                 </div>
                 <div class="col-lg-3 col-sm-3">
                     <div class="page-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".5s">
-                        <h1>
-                            Our Company
-                        </h1>
+                        <h1>Меню</h1>
                         <ul class="page-footer-list">
                             <li>
                                 <i class="fa fa-angle-right"></i>
-                                <a href="about.html">About Us</a>
+                                <a href="{{ route('about') }}">О нас</a>
                             </li>
                             <li>
                                 <i class="fa fa-angle-right"></i>
-                                <a href="faq.html">Support</a>
+                                <a href="{{ route('price') }}">Цены</a>
                             </li>
                             <li>
                                 <i class="fa fa-angle-right"></i>
-                                <a href="service.html">Service</a>
+                                <a href="{{ route('portfolio') }}">Портфолио</a>
                             </li>
                             <li>
                                 <i class="fa fa-angle-right"></i>
-                                <a href="privacy-policy.html">Privacy Policy</a>
+                                <a href="{{ route('blog') }}">Блог</a>
                             </li>
                             <li>
                                 <i class="fa fa-angle-right"></i>
-                                <a href="career.html">We are Hiring</a>
+                                <a href="{{ route('faq') }}">FAQ</a>
                             </li>
                             <li>
                                 <i class="fa fa-angle-right"></i>
-                                <a href="terms.html">Term & condition</a>
+                                <a href="{{ route('contact') }}">Контакты</a>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-3">
                     <div class="text-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".7s">
-                        <h1>
-                            Text Widget
-                        </h1>
-                        <p>
-                            This is a text widget.Lorem ipsum dolor sit amet.
-                            This is a text widget.Lorem ipsum dolor sit amet.
-                        </p>
+                        <h1>Джон Шаар</h1>
+                        <p>Будущее — это не то, куда мы идем, а то, что мы создаем. Дороги следует не искать, а строить. Сам процесс строительства меняет как самого творца, так и его судьбу.</p>
                     </div>
                 </div>
             </div>
@@ -256,7 +216,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="copyright">
-                        <p>&copy; Copyright - Acme Theme by cosmic.</p>
+                        <p>&copy; Copyright - masterstroy.by</p>
                     </div>
                 </div>
             </div>
@@ -266,7 +226,6 @@
     <script src="js/jquery.js">
     </script>
     -->
-
     @section('scripts')
         <script src="js/jquery-1.8.3.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
