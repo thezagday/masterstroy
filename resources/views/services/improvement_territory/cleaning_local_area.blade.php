@@ -41,9 +41,9 @@
                 </div>
                 <div class="col-lg-8 col-sm-8">
                     <ol class="breadcrumb pull-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Pages</a></li>
-                        <li class="active">Terms</li>
+                        <li><a href="#">Услуги</a></li>
+                        <li><a href="#">Благоустройство участка</a></li>
+                        <li class="active">Уборка придомовой территории</li>
                     </ol>
                 </div>
             </div>
